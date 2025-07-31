@@ -14,7 +14,4 @@ npx expo start
 Use Expo Go to scan the QR code or run on an emulator.
 
 # Features
-Login and logout functionality
-Tab-based navigation
-Custom UI components
-Backend integration using Axios
+Login and logout functionality, Tab-based navigation, Custom UI components, Backend integration using Axios

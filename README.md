@@ -1,4 +1,4 @@
-# Doga App — React Native Demo
+# Doga App - React Native Demo
 This is a demo mobile app built with React Native and Expo, developed for Doğa Sigorta. The app includes authentication, navigation, and communication with backend APIs, most likely using SOAP and REST protocols.
 
 # Prerequisites
